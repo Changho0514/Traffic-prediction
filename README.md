@@ -12,7 +12,7 @@
 
 - **평가 지표** 
 	- **RMSE(Root Mean Square Error)**
-![image](RMSE.png)
+![image](RMSE.PNG)
 
 
 ----------
